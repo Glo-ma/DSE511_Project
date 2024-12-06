@@ -23,9 +23,16 @@ Here's a summary of the columns:
 * Depression: Categorical, with values "Yes" and "No".
 
 ## Implementation Steps
-1. Statistical/ Exploratory Analysis using SQL
-2. Data Visualiation using R
-3. Data Cleaning and preprocessing using Python
-4. Data Modelling and prediction using matlab
- 
+
+1. Statistical/Exploratory Analysis (SQL)
+Performed Statitical analysis using SQL queries to calculate descriptive statistics, identify missing values, and examine feature correlations to understand the dataset's structure and relationships.
+
+2.  Visualization (R)
+Created insightful visualizations, including correlation heatmaps, boxplots, and scatterplots, to analyze trends and relationships among features. Visualized the distribution of depression levels across various predictors.
+
+3. Data Cleaning and Preprocessing (Python)
+Converted categorical variables (e.g., "Yes"/"No") to binary (0/1) for compatibility with models. Balanced the dataset using an autoencoder, ensuring fair representation of depression and non-depression cases.
+
+4. Data Modeling and Prediction (MATLAB)
+Implemented logistic regression (95% accuracy) and random forest (99% accuracy) classifiers. Generated confusion matrices, classification reports, and ROC curves for both models. Identified key features driving predictions through feature importance analysis.
   
