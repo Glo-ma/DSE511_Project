@@ -3,7 +3,7 @@
 Welcome to the repository for the DSE 511 final project.
 
 ## Problem Description
-This project focuses on predicting whether a student is experiencing depression. The implementation integrates multiple programming tools, including SQL, R, MATLAB, and Python, each contributing to different stages of the project. These stages include data preparation, analysis, Visualization, and modeling/prediction.
+This project focuses on predicting whether a student is experiencing depression or not. The implementation integrates multiple programming tools, including SQL, R, MATLAB, and Python, each contributing to different stages of the project. These stages include data preparation, analysis, Visualization, and modeling/prediction.
 
 ## Data
 The dataset used in this project is the depression dataset from a kaggle competition.
