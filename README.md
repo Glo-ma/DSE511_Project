@@ -23,7 +23,7 @@ Here's a summary of the columns:
 * Depression: Categorical, with values "Yes" and "No".
 
 ## Implementation Steps
-1.Statistical/ Exploratory Analysis using SQL
+1. Statistical/ Exploratory Analysis using SQL
 2. Data Visualiation using R
 3. Data Cleaning and preprocessing using Python
 4. Data Modelling and prediction using matlab
