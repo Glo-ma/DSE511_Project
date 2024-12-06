@@ -3,10 +3,10 @@
 Welcome to the repository for the DSE 511 final project.
 
 ## Problem Description
-This project involves data analysis and visualization of a Depression Dataset(DSS.csv) implemented in Python, R, SQl, and Matlab. 
+This project focuses on predicting whether a student is experiencing depression. The implementation integrates multiple programming tools, including SQL, R, MATLAB, and Python, each contributing to different stages of the project. These stages include data preparation, analysis, Visualization, and modeling/prediction.
 
 ## Data
-The dataset used in this project has the following features:
+The dataset used in this project is the depression dataset from a kaggle competition.
 The dataset contains 502 entries and 11 columns. 
 Here's a summary of the columns:
 
@@ -23,9 +23,9 @@ Here's a summary of the columns:
 * Depression: Categorical, with values "Yes" and "No".
 
 ## Implementation Steps
-1. Check for missing values and anomalies.
-2. Performing descriptive analysis (e.g., mean, median) for numeric columns.
-3. Analyzing categorical variables to identify patterns.
-4. Generate visualizations for clearer insights. 
-5. Explore correlations between variables (e.g., academic pressure and depression).
+1.Statistical/ Exploratory Analysis using SQL
+2. Data Visualiation using R
+3. Data Cleaning and preprocessing using Python
+4. Data Modelling and prediction using matlab
+ 
   
