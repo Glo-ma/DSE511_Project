@@ -32,6 +32,10 @@ Created insightful visualizations, including correlation heatmaps, boxplots, and
 
 ![Gender](img/Rplot_Gender.png)
 
+![Axademic Pressure](img/Rplot_AcademicPressure.png)
+
+![Feature Correlation]()
+
 
 ## 3. Data Cleaning and Preprocessing (Python)
 Converted categorical variables (e.g., "Yes"/"No") to binary (0/1) for compatibility with models. Balanced the dataset using an autoencoder, ensuring fair representation of depression and non-depression cases.
