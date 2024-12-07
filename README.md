@@ -29,6 +29,7 @@ Performed Statitical analysis using SQL queries to calculate descriptive statist
 
 ## 2.  Visualization (R)
 Created insightful visualizations, including correlation heatmaps, boxplots, and scatterplots, to analyze trends and relationships among features. Visualized the distribution of depression levels across various predictors.
+
 ![Gender](img/Rplots_Gender.png)
 
 
