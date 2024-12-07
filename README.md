@@ -45,4 +45,4 @@ Implemented logistic regression (95% accuracy) and random forest (99% accuracy) 
 
 ![Confuson matrix](img/mat_confmat.png)
 ![Confuson matrix](img/mat_confmatLR.png)
-![Confuson matrix](img/mat_confmat.png)
+![Confuson matrix](img/Matlab_RocRF.png)
