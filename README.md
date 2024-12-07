@@ -29,6 +29,8 @@ Performed Statitical analysis using SQL queries to calculate descriptive statist
 
 ## 2.  Visualization (R)
 Created insightful visualizations, including correlation heatmaps, boxplots, and scatterplots, to analyze trends and relationships among features. Visualized the distribution of depression levels across various predictors.
+![Gender](img/Rplots_Gender.png)
+
 
 ## 3. Data Cleaning and Preprocessing (Python)
 Converted categorical variables (e.g., "Yes"/"No") to binary (0/1) for compatibility with models. Balanced the dataset using an autoencoder, ensuring fair representation of depression and non-depression cases.
