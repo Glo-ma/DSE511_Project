@@ -42,4 +42,7 @@ Converted categorical variables (e.g., "Yes"/"No") to binary (0/1) for compatibi
 
 ## 4. Data Modeling and Prediction (MATLAB)
 Implemented logistic regression (95% accuracy) and random forest (99% accuracy) classifiers. Generated confusion matrices, classification reports, and ROC curves for both models. Identified key features driving predictions through feature importance analysis.
-  
+
+![Confuson matrix](img/mat_confmat.png)
+![Confuson matrix](img/mat_confmatLR.png)
+![Confuson matrix](img/mat_confmat.png)
